@@ -6,7 +6,7 @@ public class start {
 	
 		int x;
 		int y;
-		
+		int z;
 	}
 
 }
